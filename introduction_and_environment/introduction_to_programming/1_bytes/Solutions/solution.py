@@ -1,1 +1,1 @@
-result = 'Gigabyte'
+print('Gigabyte')

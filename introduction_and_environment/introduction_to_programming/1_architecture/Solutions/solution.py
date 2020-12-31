@@ -1,1 +1,1 @@
-result = 'a.John Von Neuman'
+print('a.John Von Neuman')

@@ -1,1 +1,1 @@
-result = 'Interpreter'
+print('Interpreter')

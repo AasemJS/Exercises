@@ -1,1 +1,1 @@
-result = 'Hexadecimal'
+print('Hexadecimal')

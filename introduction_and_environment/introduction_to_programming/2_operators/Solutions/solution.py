@@ -1,1 +1,1 @@
-result = 'Boolean'
+print('Boolean')

@@ -1,1 +1,1 @@
-result = 'Domain Name System'
+print('Domain Name System')
