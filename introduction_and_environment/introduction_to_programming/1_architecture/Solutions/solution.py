@@ -1,0 +1,1 @@
+result = 'a.John Von Neuman'

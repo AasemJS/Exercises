@@ -1,0 +1,1 @@
+result = 'Domain Name System'
